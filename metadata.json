@@ -1,0 +1,8 @@
+{
+  "name": "EDEX Express — Real-Time Courier & Consignment Tracking",
+  "description": "Real-time courier tracking dashboard with live WebSocket shipment updates, instant notifications, parcel dispatch, rate quotes, and global hub finder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
